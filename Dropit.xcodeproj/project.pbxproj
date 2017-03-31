@@ -115,7 +115,6 @@
 				TargetAttributes = {
 					A9A806F11E8A10C500BE8881 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = FM8NZF3969;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -277,7 +276,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = FM8NZF3969;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = Dropit/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.fatbird.Dropit;
@@ -289,7 +288,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = FM8NZF3969;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = Dropit/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.fatbird.Dropit;
