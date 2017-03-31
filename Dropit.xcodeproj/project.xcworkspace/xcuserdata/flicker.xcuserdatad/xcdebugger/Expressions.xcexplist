@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "GLOBAL">
+         <PersistentStrings>
+            <PersistentString
+               value = "item.center">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "main:main.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController drop]:ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "arc4random() % (int)self.gameView.bounds.size.width / DROP_SIZE.width">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__28-[DropitBehavior alignItem:]_block_invoke:DropitBehavior.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentItemWidth/2">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
